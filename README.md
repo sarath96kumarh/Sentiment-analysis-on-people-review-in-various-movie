@@ -1,0 +1,2 @@
+# Sentiment-analysis-on-people-review-in-various-movie
+people review express their intention and emotions toward the movie. Here i have taken 50,000 review data from IMDB, with this kind of data we can able to predict which movie will make more profit and which will not. Using CNN and LSTM algorithm we can creat a model which will predict which movie will make more profit. This model will be helpful for media service provider compaines like #hotstar etc 
